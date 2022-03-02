@@ -1,3 +1,8 @@
+"""
+Module to create cool ascii effects from images
+
+"""
+
 import os
 
 from PIL import Image,ImageDraw,ImageFont
